@@ -1,3 +1,3 @@
 #!/bin/sh
-sv_restart
-sv_restart2
+cb_restart
+cb_restart2
